@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Engineering Resources and Materials
 
 You can use the [editor on GitHub](https://github.com/Vexglaz/website-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -40,12 +40,16 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 # Helpful resources Resources
 
 ## Mechanical Engineering Resources
+1. Computer-Aided Design (CAD)
+    - [CAD Cam Tutorials](https://www.youtube.com/c/CADCAMTUTORIAL)
+    A great way to learn the basics up to more complex CADing drawings and tools in Solidworks and Fusion 360
 
-
-### Tools Resources
-
-
-### CADing Tutorial Resources
+    - [Creo Parametric](https://www.youtube.com/c/CreoParametric)
+2. Simulation and Controls
+    - [MATLAB](https://www.youtube.com/c/matlab)
+3. Controls
+4. 
+5. 
 
 
 ### Simulation Tutorial Resources
@@ -55,15 +59,31 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 
-
-
 ## Game Design Resources
+1. [Brackeys](https://www.youtube.com/c/Brackeys)
+    - He's the GOAT for introduction to Game Dev!
+2. [Game Dev Guide](https://www.youtube.com/c/GameDevGuide)
+    - Great introduction to UI design and various specific game dev tricks and tips
 
 
 ## Class Resources
-
+- [MIT OpenCourseWare](https://www.youtube.com/c/mitocw)
+- 
 
 ## Systems Engineering Resources
+1. MBSE:
+    - [No Magic](https://www.youtube.com/user/NoMagicInc)
+
+## General Engineering
+1. Youtube Channels
+    - [Real Engineering](https://www.youtube.com/c/RealEngineering)
+    - [The Efficient Engineer](https://www.youtube.com/c/TheEfficientEngineer)
+    - [The Engineering Mindset](https://www.youtube.com/c/Theengineeringmindset)
+    - [Boston Dynamics]()
 
 
-## 
+## Sum'more Favorite Youtube channels
+- [Vsauce](https://www.youtube.com/c/vsauce1)
+- [Tom Scott](https://www.youtube.com/c/TomScottGo)
+- [The Action Lab](https://www.youtube.com/c/TheActionLab)
+- [Daily Dose of Internet](https://www.youtube.com/c/DailyDoseOfInternet)
